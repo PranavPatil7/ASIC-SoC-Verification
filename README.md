@@ -67,22 +67,5 @@ asic-soc-ml-accelerator-verification/
 
 ---
 
-## 📌 Target Role
-
-This project is part of a hardware-centric portfolio built specifically to match the **ASIC Design Verification Engineer** role at top Semiconductor Designing Companies of the world. It demonstrates my passion for:
-
-- Hardware/software co-design
-- ML accelerator design
-- Functional verification using UVM
-- Scripting and automation in hardware development
-
----
-
-## 📬 Contact
-
-**Rehan Mohammed Qureshi**  
-📍 Dallas, Texas, USA  
-📧 rehanq2200@gmail.com  
-🔗 [LinkedIn](http://www.linkedin.com/in/rehanq-tech)
 
 ---
